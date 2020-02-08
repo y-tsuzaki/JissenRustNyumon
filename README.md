@@ -56,3 +56,12 @@
 - VSCodeのインストール
   - RLS : Rust Language Service
     - Language Servierプロトコルに準拠する開発支援用サーバ
+
+- RPM計算機プログラムとデバッガによる実行
+    - トレイト境界 ： javaでいう <T extends ...>のようなもの (らしいが説明が難しくてわからない。8章でやるようなのでその時にはわかりたい。)
+    - デバッガのセットアップ
+      - lldbというコマンドを使う(macではリンカのインストール時にLLDBも一緒に入る)
+      - VSCode に CodeLLDBというExtensionを入れる
+
+    
+
